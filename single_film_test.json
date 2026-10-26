@@ -1,0 +1,18 @@
+{
+  "A1": {
+    "1.0": {
+      "macro_f1_topk_mean": 0.5400296934076542,
+      "macro_f1_topk_std": 0.0,
+      "avg_labels_topk_mean": 2.0,
+      "avg_labels_topk_std": 0.0,
+      "macro_f1_05_mean": 0.558167260412449,
+      "macro_f1_05_std": 0.0,
+      "avg_labels_05_mean": 2.152023121387283,
+      "avg_labels_05_std": 0.0,
+      "mAP_mean": 0.6274789038592672,
+      "mAP_std": 0.0,
+      "ece_mean": 0.19733736117106643,
+      "ece_std": 0.0
+    }
+  }
+}

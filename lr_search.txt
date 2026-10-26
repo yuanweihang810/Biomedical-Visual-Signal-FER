@@ -1,0 +1,5 @@
+RAF-DB ResNet-18 lr search (30 epoch, class-weighted CE)
+lr=1e-4  test_acc=0.8403  uar=0.7447  f1=0.7559
+lr=5e-4  test_acc=0.8540  uar=0.7720  f1=0.7799
+lr=1e-3  test_acc=0.8403  uar=0.7614  f1=0.7664
+=> choose lr=5e-4

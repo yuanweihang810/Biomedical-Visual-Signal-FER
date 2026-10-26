@@ -1,0 +1,50 @@
+{
+  "A0": {
+    "1.0": {
+      "macro_f1_topk_mean": 0.5341725401790924,
+      "macro_f1_topk_std": 0.010938863475621733,
+      "avg_labels_topk_mean": 2.0,
+      "avg_labels_topk_std": 0.0,
+      "macro_f1_05_mean": 0.5192055271805025,
+      "macro_f1_05_std": 0.0,
+      "avg_labels_05_mean": 7.0,
+      "avg_labels_05_std": 0.0,
+      "mAP_mean": 0.6428703288191988,
+      "mAP_std": 0.008699083839365197,
+      "ece_mean": 0.22137649637893836,
+      "ece_std": 0.006063102346707644
+    }
+  },
+  "A1": {
+    "1.0": {
+      "macro_f1_topk_mean": 0.5367732828590671,
+      "macro_f1_topk_std": 0.01072390012571509,
+      "avg_labels_topk_mean": 2.0,
+      "avg_labels_topk_std": 0.0,
+      "macro_f1_05_mean": 0.5192055271805025,
+      "macro_f1_05_std": 0.0,
+      "avg_labels_05_mean": 7.0,
+      "avg_labels_05_std": 0.0,
+      "mAP_mean": 0.6424030640169353,
+      "mAP_std": 0.007443308414393471,
+      "ece_mean": 0.22626904819889765,
+      "ece_std": 0.005330660080404326
+    }
+  },
+  "A4": {
+    "1.0": {
+      "macro_f1_topk_mean": 0.5316828107687723,
+      "macro_f1_topk_std": 0.010637849574804242,
+      "avg_labels_topk_mean": 2.0,
+      "avg_labels_topk_std": 0.0,
+      "macro_f1_05_mean": 0.5192055271805025,
+      "macro_f1_05_std": 0.0,
+      "avg_labels_05_mean": 7.0,
+      "avg_labels_05_std": 0.0,
+      "mAP_mean": 0.6427902615511004,
+      "mAP_std": 0.008517962523923535,
+      "ece_mean": 0.21756820137421026,
+      "ece_std": 0.005316539761738736
+    }
+  }
+}
